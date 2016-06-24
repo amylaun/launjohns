@@ -24,7 +24,10 @@ defaults:
   values:
     layout: post
     permalink: pretty
-    start_date: ["red", "green", "blue"]
+    start_date:
+    - red
+    - green
+    - blue
 - scope:
     path: ''
     type: pages
