@@ -22,8 +22,6 @@ defaults:
     path: ''
     type: adventures
   values:
-    layout: post
-    permalink: pretty
     Travel Date:
     - Start Date
     - End Date
