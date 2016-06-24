@@ -24,9 +24,9 @@ defaults:
   values:
     layout: post
     permalink: pretty
-    Travel Dates:
-    - start
-    - end
+    Travel Date:
+    - Start Date
+    - End Date
 - scope:
     path: ''
     type: pages
